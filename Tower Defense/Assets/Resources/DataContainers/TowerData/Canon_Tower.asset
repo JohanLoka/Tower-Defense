@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7df6638a71be824ca49ab82921a11b6, type: 3}
+  m_Name: Canon_Tower
+  m_EditorClassIdentifier: 
+  TowerName: Canon Tower
+  TowerNameDatabase: CANON_TOWER_TEST
+  BuildCost: 12
+  UpgradeCosts: 080000000f000000
+  Damage: 1
+  Power: 31
+  RoF: 0.75
+  Range: 13
+  typeOfDamage:
+    typeOfDamge: 3
+  GroundOnly: 0
+  TrackingSpeed: 8
+  TowerPrefab: {fileID: 1380647551650936, guid: 2c905ccab8cc4e8448f7801045f07b63,
+    type: 2}
+  projectileData: {fileID: 11400000, guid: f63e5fb6e885bdd4b8332b33c45e21e8, type: 2}

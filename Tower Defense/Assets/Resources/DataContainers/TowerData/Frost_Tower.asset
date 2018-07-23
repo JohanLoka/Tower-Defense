@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7df6638a71be824ca49ab82921a11b6, type: 3}
+  m_Name: Frost_Tower
+  m_EditorClassIdentifier: 
+  TowerName: Frost Tower
+  TowerNameDatabase: CANON_TOWER_TEST
+  BuildCost: 16
+  UpgradeCosts: 0c00000014000000
+  Damage: 1
+  Power: 16
+  RoF: 2
+  Range: 11
+  typeOfDamage:
+    typeOfDamge: 1
+  GroundOnly: 0
+  TrackingSpeed: 3
+  TowerPrefab: {fileID: 1380647551650936, guid: 2c905ccab8cc4e8448f7801045f07b63,
+    type: 2}
+  projectileData: {fileID: 11400000, guid: 9ff56cb1f1f0a4a44a5aec08c2e308bb, type: 2}
